@@ -6,6 +6,6 @@ A ahk script let me happy using VSCode and HHKB in Windows
 
 1. Map <kbd>Win</kbd> to <kbd>Ctrl</kbd>
 2. Add move cursor shortkeys like emacs
-3. Press <kbd>Shift+Alt+D</kbd> to duplicate line
+3. `vscodehotkey_vs.ahk` - Support Visual Studio 2019 with VSCode keymap 
 
-Note: You have to use default vscode keymap. Then lanuch vscode and run this AHK script or vscodehotkey.exe in [Release](https://github.com/m2nlight/AHKVSCodeLikeMac/releases) page.
+Note: Please use default keymap. Then lanuch vscode and run this AHK script or vscodehotkey.exe in [Release](https://github.com/m2nlight/AHKVSCodeLikeMac/releases) page.

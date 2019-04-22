@@ -15,12 +15,11 @@ Ctrl & p::Send {Up}
 Ctrl & n::Send {Down}
 Ctrl & b::Send {Left}
 Ctrl & f::Send {Right}
+Ctrl & n::Send {Home}
+Ctrl & e::Send {End}
 Alt & b::Send ^{Left}
 Alt & f::Send ^{Right}
-Ctrl & d::Send {Del}                    ; Delete a charactor
-Alt & d::Send ^{Del}                    ; Delete right word 
+Ctrl & d::Send {Del}                  ; Delete a character
+Alt & d::Send ^{Del}                  ; Delete right word 
 Alt & Backspace::Send ^{Backspace}    ; Delete left word
-; append features
-!+d::Send !+{Down}                      ; Duplicate line
-
 #IfWinActive
