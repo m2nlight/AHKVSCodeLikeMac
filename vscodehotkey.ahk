@@ -15,7 +15,7 @@ Ctrl & p::Send {Up}
 Ctrl & n::Send {Down}
 Ctrl & b::Send {Left}
 Ctrl & f::Send {Right}
-Ctrl & n::Send {Home}
+Ctrl & a::Send {Home}
 Ctrl & e::Send {End}
 Alt & b::Send ^{Left}
 Alt & f::Send ^{Right}
